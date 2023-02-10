@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+<<<<<<< HEAD:src/main/webapp/META-INF/MANIFEST.MF
+Built-By: LGE807
+Build-Jdk: 11.0.6
+=======
+Built-By: hyungkhan
+Build-Jdk: 11.0.16.1
+>>>>>>> cf2b1db97d1ce116b97a1f15f823f3b120c76a4d:target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+Created-By: Maven Integration for Eclipse
+

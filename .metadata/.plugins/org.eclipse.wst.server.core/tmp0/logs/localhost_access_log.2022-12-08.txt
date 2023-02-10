@@ -1,0 +1,13 @@
+127.0.0.1 - - [08/Dec/2022:16:59:49 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [08/Dec/2022:16:59:51 +0900] "GET /bitcafe/ HTTP/1.1" 200 18113
+0:0:0:0:0:0:0:1 - - [08/Dec/2022:16:59:51 +0900] "GET /bitcafe/resources/css/bottomTab.css HTTP/1.1" 200 2480
+0:0:0:0:0:0:0:1 - - [08/Dec/2022:16:59:51 +0900] "GET /bitcafe/resources/img/beanLogo.png HTTP/1.1" 200 1815
+0:0:0:0:0:0:0:1 - - [08/Dec/2022:16:59:51 +0900] "GET /bitcafe/resources/js/bottomTab.js HTTP/1.1" 200 492
+0:0:0:0:0:0:0:1 - - [08/Dec/2022:16:59:51 +0900] "GET /bitcafe/resources/css/topImg.css HTTP/1.1" 200 3430
+0:0:0:0:0:0:0:1 - - [08/Dec/2022:16:59:51 +0900] "GET /bitcafe/resources/css/best_And_event.css HTTP/1.1" 200 1947
+0:0:0:0:0:0:0:1 - - [08/Dec/2022:16:59:51 +0900] "GET /bitcafe/resources/js/bestMenu.js HTTP/1.1" 200 1234
+0:0:0:0:0:0:0:1 - - [08/Dec/2022:16:59:51 +0900] "GET /bitcafe/resources/img/eventImg/eventImg002.png HTTP/1.1" 200 140390
+0:0:0:0:0:0:0:1 - - [08/Dec/2022:16:59:51 +0900] "GET /bitcafe/resources/img/maintop.jpg HTTP/1.1" 200 181145
+0:0:0:0:0:0:0:1 - - [08/Dec/2022:16:59:51 +0900] "GET /bitcafe/resources/img/eventImg/eventImg003.png HTTP/1.1" 200 210753
+0:0:0:0:0:0:0:1 - - [08/Dec/2022:16:59:51 +0900] "GET /bitcafe/resources/img/eventImg/eventImg001.png HTTP/1.1" 200 252608
+0:0:0:0:0:0:0:1 - - [08/Dec/2022:16:59:51 +0900] "GET /bitcafe/resources/img/order.png HTTP/1.1" 200 14686

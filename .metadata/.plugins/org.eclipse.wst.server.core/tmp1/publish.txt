@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Nov 22 00:35:20 KST 2022
+org.eclipse.jst.jee.server\:/binary\:/Users/jojanghyeon/.m2/repository/org/springframework/spring-web/5.3.23/spring-web-5.3.23.jar=/Applications/pivotal-tc-server/instances/base-instance/wtpwebapps/bitcafe/WEB-INF/lib/spring-web-5.3.23.jar
+org.eclipse.jst.jee.server\:bitcafe=/Applications/pivotal-tc-server/instances/base-instance/wtpwebapps/bitcafe

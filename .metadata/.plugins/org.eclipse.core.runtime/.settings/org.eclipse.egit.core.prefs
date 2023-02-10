@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=/Users/jojanghyeon/java/spring/workspace/.git\:/Users/jojanghyeon/java/spring/workspace/bitcafe/.git\:/Users/jojanghyeon/java/spring/workspace/bitcampProject/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:bitcafe/.git\:bitcampProject/.git\:
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1

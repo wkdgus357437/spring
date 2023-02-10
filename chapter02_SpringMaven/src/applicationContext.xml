@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd">
+
+
+	
+
+		<!-- <context:component-scan base-package="sample01"></context:component-scan> -->
+		<context:component-scan base-package="spring.conf"></context:component-scan>
+		<context:component-scan base-package="sample02"></context:component-scan>
+		<context:component-scan base-package="sample03"/>
+		<context:component-scan base-package="sample05"/>
+		
+<!-- 	 sample01
+	<bean id="messageBeanImpl" class="sample01.MessageBeanImpl">
+		<constructor-arg> bean생성과 함께 쎄트로 가야한다. 생성자. MessageBeanImpl.java의 public MessageBeanImpl(String fruit) { this.fruit = fruit; }
+			<value>사과</value>
+		</constructor-arg>
+		<property name="cost">
+			<value>5000</value>
+		</property>
+		<property name="qty" value="3" />	
+	</bean>
+ -->
+
+
+</beans>

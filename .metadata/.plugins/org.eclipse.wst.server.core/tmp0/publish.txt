@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Wed Feb 01 16:39:09 KST 2023
+org.eclipse.jst.jee.server\:/binary\:/Users/jojanghyeon/java/spring/workspace/chapter06_1/src/main/webapp/WEB-INF/lib/spring-web-5.3.20.jar=WEB-INF/lib/spring-web-5.3.20.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/jojanghyeon/.m2/repository/org/springframework/spring-web/5.3.23/spring-web-5.3.23.jar=WEB-INF/lib/spring-web-5.3.23.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/jojanghyeon/java/spring/workspace/chapter06/src/main/webapp/WEB-INF/lib/spring-web-5.3.20.jar=WEB-INF/lib/spring-web-5.3.20.jar
